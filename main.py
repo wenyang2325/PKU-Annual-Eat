@@ -5,8 +5,8 @@ import platform
 from datetime import datetime
 from utils import filter_data
 
-account = ""
-hallticket = ""
+account = "299596"
+hallticket = "879A98EEAADC4471A20590156BE939DC"
 all_data = dict()
 EXCLUDED_MERCHANTS = ["体育"]
 
